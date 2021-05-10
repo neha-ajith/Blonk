@@ -1,3 +1,4 @@
-# dont-ask-wtf-is-this
+# Blonk!
 
-Don't.
+
+Bonk! Stop staring and either go to the blog or back to your business.
