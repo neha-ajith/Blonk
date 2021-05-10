@@ -1,0 +1,58 @@
+body{
+    background-image: url("assets/cheems-bg.jpg");   
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1;
+}
+
+.gh{
+    top: 11%;
+    position: absolute;
+    left: 5%;
+    font-family: 'Reem';
+    font-size: 150%;
+    text-decoration: none;
+    color: #653700;
+}
+
+.rr{
+    top: 11%;
+    position: absolute;
+    right: 5%;
+    font-family: 'Reem';
+    font-size: 150%;
+    text-decoration: none;
+    color: #653700;
+}
+
+@font-face {
+    font-family: Reem;
+    src: url(ReemKufi-Regular.ttf);
+}
+
+h1{
+    color: black;
+    font-family: 'Reem';
+    left: 9%;
+    position: absolute;
+    font-size: 350%;
+}
+
+p{
+    font-family: 'Reem';
+    left: 9%;
+    position: absolute;
+    top: 40%;
+    font-size: 150%;
+}
+
+.cheems{
+    width: 30%;
+    position: absolute;
+    top: 65%;
+    left: 32%;
+}
