@@ -51,8 +51,27 @@ p{
 }
 
 .cheems{
-    width: 30%;
+    width: 20%;
     position: absolute;
     top: 65%;
-    left: 32%;
+    left: 35%;
+}
+
+.rickroll{
+    width: 20%;
+    top: 10%;
+    left: 37%;
+    position: absolute;
+}
+
+.desc1{
+    left: 37.5%;
+    position: absolute;
+    top: 52%;
+}
+
+.desc2{
+    left: 33%;
+    position: absolute;
+    top: 57%;
 }
